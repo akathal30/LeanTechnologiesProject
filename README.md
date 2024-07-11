@@ -16,7 +16,7 @@ Follow these steps to clone and navigate to the directory:
 3. Navigate from the root of the repo to this example with the following command:
 
 ```sh
-cd Node/lean_playwright
+cd */lean_playwright
 ```
 
 ## Install Dependencies
